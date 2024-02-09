@@ -1,0 +1,1 @@
+# git-git-conflict-2
